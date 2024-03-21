@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-- 🔭 I’m currently working on [3D-Metal-Printer-Error-Detection](https://github.com/ThongLai/3D-Metal-Printer-Error-Detection)
+- 🔭 I’m currently working on [PizzaHutsSales_ForecastingModel](https://github.com/ThongLai/PizzaHutsSales_ForecastingModel/)
 
 - 📝 I regularly showcase my projects on [https://www.youtube.com/@minhthonglai](https://www.youtube.com/@minhthonglai)
 
