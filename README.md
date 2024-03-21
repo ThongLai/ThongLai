@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">I build AI models</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thonglai" alt="thonglai" /></a> </p>
 
 - 🔭 I’m currently working on [3D-Metal-Printer-Error-Detection](https://github.com/ThongLai/3D-Metal-Printer-Error-Detection)
