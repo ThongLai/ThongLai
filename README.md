@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
+<h1 align="center">Tom</h1>
 
 - 🔭 I’m currently working on [PizzaHutsSales_ForecastingModel](https://github.com/ThongLai/PizzaHutsSales_ForecastingModel)
 
