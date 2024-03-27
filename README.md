@@ -13,9 +13,9 @@
 <a href="https://www.leetcode.com/laiminhthong1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laiminhthong1" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thonglai&show_icons=true&locale=en" alt="thonglai" /></p>
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/laiminhthong1?theme=wtf&font=Baloo%202)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thonglai&show_icons=true&locale=en" alt="thonglai" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thonglai&show_icons=true&theme=cobalt&cache_seconds=1800&locale=en&layout=compact" alt="thonglai" /></p>
 
