@@ -1,6 +1,6 @@
 <h1 align="center">Tom</h1>
 
-- 🔭 I’m currently working on [PizzaHutsSales_ForecastingModel]([https://github.com/ThongLai/PizzaHutsSales_ForecastingModel](https://github.com/ThongLai/Eye-tracking-in-Reading-Comprehension)
+- 🔭 I’m currently working on [Eye tracking in Reading Comprehension]([https://github.com/ThongLai/PizzaHutsSales_ForecastingModel](https://github.com/ThongLai/Eye-tracking-in-Reading-Comprehension))
 
 - 📝 I regularly showcase my projects on [https://www.youtube.com/@minhthonglai](https://www.youtube.com/@minhthonglai)
 
