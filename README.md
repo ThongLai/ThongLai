@@ -1,6 +1,6 @@
 <h1 align="center">Tom</h1>
 
-- 🔭 I’m currently working on [Eye tracking in Reading Comprehension](https://github.com/ThongLai/Monk_RGBGame)
+- 🔭 I’m currently working on [Monk - RGB Game](https://github.com/ThongLai/Monk_RGBGame)
 
 - 📝 I regularly showcase my projects on [@minhthonglai (youtube)](https://www.youtube.com/@minhthonglai)
 
