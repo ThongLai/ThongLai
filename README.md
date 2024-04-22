@@ -1,6 +1,6 @@
 <h1 align="center">Tom</h1>
 
-- 🔭 I’m currently working on [Monk - RPG Game](https://github.com/ThongLai/Monk_RPGGame)
+- 🔭 I’m currently working on [3D Metal Printer Error Detection](https://github.com/ThongLai/3D-Metal-Printer-Error-Detection)
 
 - 📝 I regularly showcase my projects on [@minhthonglai (youtube)](https://www.youtube.com/@minhthonglai)
 
