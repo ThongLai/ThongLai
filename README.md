@@ -1,6 +1,6 @@
 <h1 align="center">Tom</h1>
 
-- 🔭 I’m currently working on [3D Metal Printer Error Detection](https://github.com/ThongLai/3D-Metal-Printer-Error-Detection)
+- 🔭 I’m currently working on [Eye tracking in Reading Comprehension](https://github.com/ThongLai/Eye-tracking-in-Reading-Comprehension)
 
 - 📝 I regularly showcase my projects on [@minhthonglai (youtube)](https://www.youtube.com/@minhthonglai)
 
