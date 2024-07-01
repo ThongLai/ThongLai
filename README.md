@@ -11,14 +11,11 @@
 <a href="https://linkedin.com/in/thonglai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thonglai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@minhthonglai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@minhthonglai" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/laiminhthong1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laiminhthong1" height="30" width="40" /></a>
-
+<a href="https://www.kaggle.com/minhthonglai" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="laiminhthong1" height="30" width="40" /></a>
   
 </p>
 
-![minhthonglai](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{minhthonglai})
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/laiminhthong1?theme=wtf&font=Baloo%202)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thonglai&show_icons=true&theme=cobalt&cache_seconds=1800&locale=en&layout=compact" alt="thonglai" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thonglai&show_icons=true&locale=en" alt="thonglai" /></p>
