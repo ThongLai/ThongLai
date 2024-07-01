@@ -2,8 +2,8 @@
 
 <!-- 🔭 I’m currently working on [3D Metal Printer Error Detection](https://github.com/ThongLai/3D-Metal-Printer-Error-Detection) -->
 
-- 📝 I regularly showcase my projects on [Youtube](https://www.youtube.com/@minhthonglai), 
-[Kaggle](https://www.kaggle.com/minhthonglai)
+- 📝 I regularly showcase my projects on [`Youtube`](https://www.youtube.com/@minhthonglai), 
+[`Kaggle`](https://www.kaggle.com/minhthonglai)
 - 📫 How to reach me **laiminhthong1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
