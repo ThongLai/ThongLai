@@ -14,8 +14,9 @@
 
   
 </p>
-
+![minhthonglai](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{minhthonglai})
 ![LeetCode Stats](https://leetcard.jacoblin.cool/laiminhthong1?theme=wtf&font=Baloo%202)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thonglai&show_icons=true&theme=cobalt&cache_seconds=1800&locale=en&layout=compact" alt="thonglai" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thonglai&show_icons=true&locale=en" alt="thonglai" /></p>
