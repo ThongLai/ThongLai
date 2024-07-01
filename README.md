@@ -14,6 +14,9 @@
 
   
 </p>
+
+![minhthonglai](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{minhthonglai})
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/laiminhthong1?theme=wtf&font=Baloo%202)
 
 
