@@ -2,7 +2,7 @@
 
 <!-- 🔭 I’m currently working on [3D Metal Printer Error Detection](https://github.com/ThongLai/3D-Metal-Printer-Error-Detection) -->
 
-- 📝 I regularly showcase my projects on [`Personal Website`](https://thonglai.github.io/Personal-Website/) [`Youtube`](https://www.youtube.com/@minhthonglai), 
+- 📝 I regularly showcase my projects on [`Personal Website`](https://tom-site.vercel.app) [`LinkedIn`](https://www.linkedin.com/in/thong-lai/), 
 [`Kaggle`](https://www.kaggle.com/minhthonglai)
 - 📫 How to reach me **laiminhthong1@gmail.com**
 
